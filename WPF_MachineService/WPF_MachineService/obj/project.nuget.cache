@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "Ja97a67xlIi8e23nscECSy3Q+F60TwWdCwfWbS81jBFO5UiTqzeoyWVDJ4uXeug5HZYRCtaQ2AvMyEVGOphBtA==",
+  "dgSpecHash": "S2M0OQtDE8qilCwGHMCqKyPUUgMR6vvjK2H9MC9q6VhhWPKanCbNt/GDaSwq2yww/DF35CHUDyM80hNM63CBGQ==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\BE\\WPF\\WPF_MachineService\\WPF_MachineService\\WPF_MachineService\\WPF_MachineService.csproj",
+  "projectFilePath": "C:\\Users\\longn\\Source\\Repos\\WPF_MachineService\\WPF_MachineService\\WPF_MachineService\\WPF_MachineService.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\THUAN\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
-    "C:\\Users\\THUAN\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
-    "C:\\Users\\THUAN\\.nuget\\packages\\aforge.math\\2.2.5\\aforge.math.2.2.5.nupkg.sha512",
-    "C:\\Users\\THUAN\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
-    "C:\\Users\\THUAN\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512",
-    "C:\\Users\\THUAN\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
-    "C:\\Users\\THUAN\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\THUAN\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+    "C:\\Users\\longn\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\longn\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
+    "C:\\Users\\longn\\.nuget\\packages\\aforge.math\\2.2.5\\aforge.math.2.2.5.nupkg.sha512",
+    "C:\\Users\\longn\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
+    "C:\\Users\\longn\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512",
+    "C:\\Users\\longn\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\longn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\longn\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
   ],
   "logs": [
     {

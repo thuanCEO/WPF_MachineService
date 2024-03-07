@@ -36,6 +36,7 @@ namespace WPF_MachineService
             InitializeComponent();
             Loaded += MachineWindow_Loaded;
             Closing += MachineWindow_Closing;
+            LoadDetectionData();
         }
 
         /// <summary>
@@ -167,7 +168,7 @@ namespace WPF_MachineService
                             {
                                 Bitmap capturedBitmap = HelpToBitMapImage(capturedBitmapSource);
                                 string subfolderName = DateTime.Now.ToString("yyyyMMdd");
-                                string subfolderPath = System.IO.Path.Combine("D:\\Dev\\BE\\WPF\\WPF_MachineService\\SavePic", subfolderName);
+                                string subfolderPath = System.IO.Path.Combine("C:\\Users\\longn\\source\\repos\\WPF_MachineService\\SavePic", subfolderName);
 
                                 if (!Directory.Exists(subfolderPath))
                                 {
@@ -198,7 +199,7 @@ namespace WPF_MachineService
                                 string fileName = $"capture_{DateTime.Now:HHmmss}.png";
 
                                 string filePath = System.IO.Path.Combine(folderPath, fileName);
-                                string filePathPython = System.IO.Path.Combine("C:\\Yolov8\\ultralytics\\yolov8-silva\\inference\\images", fileName);
+                                string filePathPython = System.IO.Path.Combine("C:\\ultralytics\\yolov8-silva\\inference\\images", fileName);
                                 LoadDetectionData();
                                 try
                                 {
@@ -235,7 +236,8 @@ namespace WPF_MachineService
 
         private async void LoadDetectionData()
         {
-            string detectjsonFilePath = @"D:\Dev\BE\WPF\WPF_MachineService\WPF_MachineService\WPF_MachineService\Detection_results.json";
+            string detectjsonFilePath = @"C:\Users\longn\source\repos\WPF_MachineService\WPF_MachineService\WPF_MachineService\Detection_results.json";
+
 
             if (File.Exists(detectjsonFilePath))
             {
