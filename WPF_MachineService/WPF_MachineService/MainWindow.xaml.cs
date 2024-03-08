@@ -235,7 +235,7 @@ namespace WPF_MachineService
         }
 
         private async void LoadDetectionData()
-        {
+        {/*
             string detectjsonFilePath = @"C:\Users\longn\source\repos\WPF_MachineService\WPF_MachineService\WPF_MachineService\Detection_results.json";
 
 
@@ -267,7 +267,7 @@ namespace WPF_MachineService
             else
             {
                 MessageBox.Show("File not found: " + detectjsonFilePath, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
-            }
+            }*/
         }
     }
 
