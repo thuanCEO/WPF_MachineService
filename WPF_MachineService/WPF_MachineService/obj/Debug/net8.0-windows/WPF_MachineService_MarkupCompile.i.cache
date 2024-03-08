@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Dev\BE\WPF\WPF_MachineService\WPF_MachineService\WPF_MachineService\obj\Debug\net8.0-windows\
+C:\D_Tools\FPT-Learn\HK6\SWD391\WPF_MachineService-1\WPF_MachineService\WPF_MachineService\obj\Debug\net8.0-windows\
 WPF_MachineService
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\Dev\BE\WPF\WPF_MachineService\WPF_MachineService\WPF_MachineService\App.xaml
-11407045341
+C:\D_Tools\FPT-Learn\HK6\SWD391\WPF_MachineService-1\WPF_MachineService\WPF_MachineService\App.xaml
+2-1236777860
 
-7175782269
-2052029028719
-MainWindow.xaml;
+8-939431183
+205981292359
+MainWindow.xaml;StartForm.xaml;
 
 True
 
